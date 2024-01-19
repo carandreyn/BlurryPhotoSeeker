@@ -1,6 +1,6 @@
 # BlurryPhotoSeeker
 
-[Screenshot-2024-01-18-194gfd154.png](https://postimg.cc/CzY0RhxQ)
+[![Screenshot-2024-01-18-194gfd154.png](https://i.postimg.cc/kXRghD3q/Screenshot-2024-01-18-194gfd154.png)](https://postimg.cc/CzY0RhxQ)
 
 ## Overview
 
