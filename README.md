@@ -2,7 +2,7 @@
 
 ## Overview
 
-BlurryPhotoSeeker is a simple tool for detecting and moving blurry photos from a selected folder.
+BlurryPhotoSeeker is a simple WPF tool for detecting and moving blurry photos from a selected folder.
 
 ## Features
 
